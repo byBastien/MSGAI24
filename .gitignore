@@ -143,3 +143,5 @@ tags
 
 # End of https://www.toptal.com/developers/gitignore/api/jupyternotebooks,jetbrains+all,vim,venv
 
+*.xml
+Lab/.idea/Lab.iml
