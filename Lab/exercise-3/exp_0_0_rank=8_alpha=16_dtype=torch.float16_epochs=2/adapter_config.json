@@ -20,7 +20,8 @@
   "rank_pattern": {},
   "revision": null,
   "target_modules": [
-    "o"
+    "q",
+    "k"
   ],
   "task_type": "SEQ_2_SEQ_LM",
   "use_dora": false,
