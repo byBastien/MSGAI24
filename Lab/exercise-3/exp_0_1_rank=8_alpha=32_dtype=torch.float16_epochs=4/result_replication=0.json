@@ -1,0 +1,1 @@
+{"experiment_config": {"rank": 8, "alpha": 32, "modules": ["k", "q", "v"]}, "accuracy": 0.71, "unknown": 0.0, "prediction_ratio": 0.62, "actual_ratio": 0.43000000000000005, "begin_time": 1731431158.963634, "end_time": 1731431202.046884, "total_time": 43.08325004577637}
