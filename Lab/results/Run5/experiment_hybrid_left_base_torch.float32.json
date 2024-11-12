@@ -1,1 +1,1 @@
-{"description": "hybrid_left_base_torch.float32", "accuracy": 0.7802, "unknown": 0.0, "begin_time": 1731014631.3895273, "end_time": 1731014679.1956844, "total_time": 47.80615711212158}
+{"description": "hybrid_left_base_torch.float32", "accuracy": 0.7894, "unknown": 0.0, "prediction_ratio": 0.534, "actual_ratio": 0.4934, "begin_time": 1731164621.1864448, "end_time": 1731164693.028344, "total_time": 71.84189915657043}

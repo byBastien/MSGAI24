@@ -1,1 +1,1 @@
-{"description": "simple_right_base_torch.float32", "accuracy": 0.0378, "unknown": 0.9544, "begin_time": 1731016981.7857046, "end_time": 1731017049.8257709, "total_time": 68.04006624221802}
+{"description": "simple_right_base_torch.float32", "accuracy": 0.0372, "unknown": 0.9558, "prediction_ratio": 0.579185520361991, "actual_ratio": 0.4942, "begin_time": 1731168211.9143682, "end_time": 1731168315.5322993, "total_time": 103.61793112754822}
