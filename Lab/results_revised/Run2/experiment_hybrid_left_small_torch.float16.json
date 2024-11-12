@@ -1,0 +1,10 @@
+{
+    "description": "hybrid_left_small_torch.float16",
+    "accuracy": 0.7534,
+    "unknown": 0.0002,
+    "prediction_ratio": 0.541508301660332,
+    "actual_ratio": 0.49960000000000004,
+    "begin_time": 1731161070.5412378,
+    "end_time": 1731161115.0492253,
+    "total_time": 44.50798749923706
+}

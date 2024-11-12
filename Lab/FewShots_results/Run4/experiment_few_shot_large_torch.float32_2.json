@@ -1,0 +1,1 @@
+{"description": "few_shot_large_torch.float32_2", "accuracy": 0.8862, "unknown": 0.0, "prediction_ratio": 0.541, "actual_ratio": 0.506, "begin_time": 1731206865.1321425, "end_time": 1731214873.5360715, "total_time": 8008.403928995132}
