@@ -1,1 +1,1 @@
-{"experiment_config": {"rank": 16, "alpha": 32, "modules": ["k", "q"]}, "accuracy": 0.0, "unknown": 1.0, "prediction_ratio": null, "actual_ratio": 0.51, "begin_time": 1731430547.0273862, "end_time": 1731430599.315868, "total_time": 52.28848171234131}
+{"experiment_config": {"rank": 16, "alpha": 32, "modules": ["k", "q"]}, "accuracy": 0.7424, "unknown": 0.0002, "prediction_ratio": 0.6445289057811562, "actual_ratio": 0.5084, "begin_time": 1731826853.5354712, "end_time": 1731832597.8074298, "total_time": 5744.271958589554}
